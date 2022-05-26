@@ -1,0 +1,7 @@
+names:
+- mask_weared_incorrect
+- with_mask
+- without_mask
+nc: 3
+train: /content/drive/MyDrive/Detect Mask YoloV5/datasets/data_new_v2-1/train/images
+val: /content/drive/MyDrive/Detect Mask YoloV5/datasets/data_new_v2-1/valid/images
